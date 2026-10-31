@@ -6,8 +6,13 @@
 [Bb]uild/
 [Bb]uilds/
 [Mm]emoryCaptures/
+[Ww]orkspace[Ss]ettings/
+.vs/
+.idea/
+.vscode/
 *.csproj
 *.sln
+*.suo
 *.user
 *.pidb
 *.booproj
@@ -17,3 +22,6 @@
 *.opendb
 *.VC.db
 .DS_Store
+Thumbs.db
+*.log
+*.backup
